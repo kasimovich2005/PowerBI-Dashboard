@@ -172,38 +172,10 @@ Erkaklar soni ko'proq bo'lgan, biroq ayollar omon qolish darajasi yuqoriroq.
 | **Power BI Desktop** | Dashboard yaratish |
 | **DAX** | Hisob-kitob va formulalar |
 | **Power Query** | Ma'lumotlarni tozalash va transformatsiya |
-| **Excel / CSV** | Ma'lumot manbalari |
+| ** CSV** | Ma'lumot manbalari |
 
----
 
-## 📂 Fayl Strukturasi
 
-```
-📁 PowerBI-Dashboards/
-├── ☕ Coffee_Shop/
-│   ├── Coffee_Shop.pbix
-│   └── data/
-├── 💰 Report_Sales/
-│   ├── Report_Sales_Date.pbix
-│   └── data/
-├── 🚢 Titanic_Data/
-│   ├── Titanic_Data.pbix
-│   └── data/
-└── ✈️ Travel_Data/
-    ├── Flight_Booking_Travel.pbix
-    └── data/
-```
-
----
-
-## 🚀 Ishlatish
-
-1. **Power BI Desktop** o'rnating → [yuklab olish](https://powerbi.microsoft.com/desktop/)
-2. `.pbix` faylni oching
-3. Kerak bo'lsa, ma'lumot manbasini qayta ulang
-4. Interaktiv filtrlar orqali tahlil qiling
-
----
 
 ## ✅ Dashboard Imkoniyatlari
 
